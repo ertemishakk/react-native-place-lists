@@ -1,0 +1,4 @@
+export const PLACE_SELECTED = 'PLACE_SELECTED'
+export const DESELECT_PLACE = 'DESELECT_PLACE'
+export const ADD_PLACE = 'ADD_PLACE'
+export const REMOVE_PLACE = 'REMOVE_PLACE'
